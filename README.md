@@ -24,9 +24,12 @@ This tool and guide offers the means to:
 * Parse those metrics and send them to a cloud database in InfluxDB
 * Create live graphs and dashboards from this data in InfluxDB and Grafana
 
-The metrics extracted are:
+The metrics extracted by the sample script are:
 * MX Performance
 * MX Uplink Loss and Latency
+* MX Security Events
+* MX Uplink Status (Up/Down)
+* Last Configuration Changes
 * Wireless Connection Statistics
 * Wireless Latency Statistics
 * Wireless Client Counts
