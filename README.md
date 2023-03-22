@@ -1,5 +1,5 @@
 # merakiLiveDashboard
-Create a live Dashboard from your Meraki networks using the Meraki Dashboard API, InfluxDB and Grafana. Based on previous work by rharami in https://github.com/rharami/API-Workshop
+Create a live Dashboard from your Meraki networks using the Meraki Dashboard API, InfluxDB and Grafana. Based on previous work by `rharami` in https://github.com/rharami/API-Workshop
 
 # Table of Contents
 
